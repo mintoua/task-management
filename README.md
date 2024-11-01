@@ -11,7 +11,7 @@ Ce projet est une application full-stack utilisant Laravel pour le backend et Re
 1. Clonez le dépôt :
    ```bash
    git clone https://github.com/mintoua/task-management.git
-   cd nom-du-repo
+   cd task-management
 2. Assurez-vous que les fichiers .env sont bien configurés pour Laravel.
 
 ## Demarrage de l'application
