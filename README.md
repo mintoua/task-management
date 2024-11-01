@@ -13,6 +13,9 @@ Ce projet est une application full-stack utilisant Laravel pour le backend et Re
    git clone https://github.com/mintoua/task-management.git
    cd task-management
 2. Assurez-vous que les fichiers .env sont bien configurés pour Laravel.
+   ```bash
+   cd backend
+   cp .env.example .env
 
 ## Demarrage de l'application
 1. Exécutez la commande suivante à la racine du projet pour démarrer tous les services :
