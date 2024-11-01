@@ -1,4 +1,4 @@
-# Projet Laravel + React avec Docker Compose
+# Projet Task Managment
 
 Ce projet est une application full-stack utilisant Laravel pour le backend et React pour le frontend, orchestré avec Docker Compose.
 
